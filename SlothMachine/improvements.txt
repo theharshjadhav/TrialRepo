@@ -1,0 +1,3 @@
+
+#ask the user they can either top up or reprice bet and then based on the option entered they can either add money or reprice the bet if the total bet is greater than the balance amount (LINE NO - 72)
+#also you can't determine or recollect the amount which is already in the wallet, it always starts from 0
